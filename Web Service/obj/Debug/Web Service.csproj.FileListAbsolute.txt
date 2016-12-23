@@ -59,3 +59,4 @@ D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\b
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.xml
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.dll
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
