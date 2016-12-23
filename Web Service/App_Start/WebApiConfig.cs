@@ -12,8 +12,9 @@ namespace Web_Service
         {
             //var cors = new EnableCorsAttribute("http://cookbookweb.apphb.com", "*", "*");
             var cors = new EnableCorsAttribute("http://cookbookweb-kcpm.apphb.com", "*", "*");
-            
-            config.EnableCors(cors);
+
+            config.EnableCors();
+            //config.EnableCors(cors);
 
             //config.EnableCors(new EnableCorsAttribute("http://localhost:1188", "*", "*"));
 
