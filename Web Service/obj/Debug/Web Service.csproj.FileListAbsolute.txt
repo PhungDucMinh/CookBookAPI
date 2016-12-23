@@ -35,3 +35,28 @@ D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\b
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.dll
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\Microsoft.CSharp.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.ComponentModel.DataAnnotations.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Configuration.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Data.DataSetExtensions.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Data.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Data.Entity.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Drawing.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.EnterpriseServices.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.IdentityModel.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.IdentityModel.Services.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Net.Http.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Net.Http.WebRequest.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Runtime.Serialization.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Security.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Abstractions.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.ApplicationServices.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.DynamicData.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Entity.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Extensions.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Routing.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Services.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Xml.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Web Service\Web Service\bin\System.Xml.Linq.dll
